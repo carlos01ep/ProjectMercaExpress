@@ -1,0 +1,16 @@
+body{
+  font-family:'Bebas Neue', cursive;
+}
+
+/* tabla */
+table  {
+  margin-top:  20px;
+  display: inline-block;
+  overflow: auto;
+}
+table {
+  border-collapse: collapse;
+}
+tr:nth-child(even) {
+  background: #EEE;
+}
